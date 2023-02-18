@@ -1,5 +1,5 @@
 # trash_sorting_game
-My game over at itch: https://itch.io/game/summary/1872998 
+My game over at itch: https://tario.itch.io/trashsorting
 
 I made this game as part of my awareness campaign for electronic waste. I distributed the game to our kindergarten students to help educate them about electronic waste and its impacts on our environment and health in an visual and enjoyable way. 
 
