@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - trashcan
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - walls
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: walls
+    uniqueID: 1368427045
+    locked: 0
+  - name: window
+    uniqueID: 724739533
+    locked: 0
+  - name: green trash
+    uniqueID: 1573270819
+    locked: 0
+  - name: grey trash
+    uniqueID: 3076302405
+    locked: 0
+  - name: trash
+    uniqueID: 391086995
+    locked: 0
+  - name: ui
+    uniqueID: 1766888481
+    locked: 0
